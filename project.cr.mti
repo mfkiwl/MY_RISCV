@@ -1,0 +1,260 @@
+/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv {2 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_lsu_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Importing package biu_constants_pkg
+-- Compiling module riscv_lsu
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(217): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(218): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(219): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(220): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(221): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(222): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(223): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(224): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(225): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(226): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(227): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(228): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(235): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(236): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(237): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(238): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(239): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(246): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(247): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(248): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(249): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(250): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(251): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(252): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(253): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(254): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(261): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(262): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(263): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv(264): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+
+Top level modules:
+	riscv_lsu
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_rf.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_rf.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module riscv_rf
+
+Top level modules:
+	riscv_rf
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_state1.10.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_state1.10.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_state1_10_sv_unit
+-- Importing package riscv_rv12_pkg
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Compiling module riscv_state1_10
+
+Top level modules:
+	riscv_state1_10
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_core.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_core.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_core_sv_unit
+-- Importing package riscv_du_pkg
+-- Importing package riscv_state_pkg
+-- Importing package riscv_opcodes_pkg
+-- Importing package biu_constants_pkg
+-- Compiling module riscv_core
+
+Top level modules:
+	riscv_core
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.7_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.7_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_state_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv {2 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_wb_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Compiling module riscv_wb
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(186): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(187): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(188): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(189): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(190): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(191): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(192): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(193): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(204): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(205): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(206): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(207): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(208): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(209): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+
+Top level modules:
+	riscv_wb
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_bu.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_bu.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_bu_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Compiling module riscv_bu
+
+Top level modules:
+	riscv_bu
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.9_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.9_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_state_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_rv12_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_rv12_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_rv12_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_id.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_id.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_id_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Compiling module riscv_id
+
+Top level modules:
+	riscv_id
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_ex.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_ex.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_ex_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Importing package biu_constants_pkg
+-- Compiling module riscv_ex
+
+Top level modules:
+	riscv_ex
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_alu.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_alu.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_alu_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Compiling module riscv_alu
+
+Top level modules:
+	riscv_alu
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_div.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_div.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_div_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Compiling module riscv_div
+
+Top level modules:
+	riscv_div
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_opcodes_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_opcodes_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_opcodes_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_mem.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_mem.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_mem_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Compiling module riscv_mem
+
+Top level modules:
+	riscv_mem
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_if.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_if.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_if_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Compiling module riscv_if
+
+Top level modules:
+	riscv_if
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/biu_constants_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/biu_constants_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package biu_constants_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_pma_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_pma_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_pma_pkg
+-- Importing package riscv_state_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv {2 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_du_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Importing package riscv_du_pkg
+-- Compiling module riscv_du
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv(416): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv(419): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv(420): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv(421): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv(422): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv(428): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
+
+Top level modules:
+	riscv_du
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_mul.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_mul.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_mul_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Compiling module riscv_mul
+
+Top level modules:
+	riscv_mul
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module riscv_bp
+
+Top level modules:
+	riscv_bp
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_icache_ahb3lite.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_icache_ahb3lite.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_icache_ahb3lite_sv_unit
+-- Importing package biu_constants_pkg
+-- Compiling module riscv_icache_ahb3lite
+
+Top level modules:
+	riscv_icache_ahb3lite
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_du_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_du_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_du_pkg
+
+Top level modules:
+	--none--
+
+} {} {}}

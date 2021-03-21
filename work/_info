@@ -1,0 +1,976 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/luyao/Projects/RV12
+Xbiu_constants_pkg
+Z0 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z1 !s110 1616297660
+!i10b 1
+!s100 Cc>m0_XFPREdXA5WmE=m:3
+IWmWj[K9Hf?BNz0I>^7=lT1
+VWmWj[K9Hf?BNz0I>^7=lT1
+S1
+Z2 d/home/luyao/Projects/MY_RISCV
+w1616297001
+8/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/biu_constants_pkg.sv
+F/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/biu_constants_pkg.sv
+L0 7
+Z3 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z4 !s108 1616297660.000000
+!s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/biu_constants_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/biu_constants_pkg.sv|
+!i113 0
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vriscv_alu
+R0
+Z7 DXx4 work 17 riscv_opcodes_pkg 0 22 QfR]`<0dRLSDimAY_[;9E0
+Z8 DXx4 work 15 riscv_state_pkg 0 22 =B4C_zl5C4A8TK=M>Ui:n1
+DXx4 work 17 riscv_alu_sv_unit 0 22 ?HTdQ5dU:^Rdj8;;eb]gN2
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 CGTZiZD1QoC5^Ni1BBk^:2
+IzQ8Bm]^mfHQXVaf4N]9MB3
+!s105 riscv_alu_sv_unit
+S1
+R2
+Z10 w1616297326
+Z11 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_alu.sv
+Z12 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_alu.sv
+L0 9
+R3
+31
+R4
+Z13 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_alu.sv|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_alu.sv|
+!i113 0
+R5
+R6
+Xriscv_alu_sv_unit
+R0
+R7
+R8
+V?HTdQ5dU:^Rdj8;;eb]gN2
+r1
+!s85 0
+!i10b 1
+!s100 Y0inXSLGRI@dU5@@a]h5?3
+I?HTdQ5dU:^Rdj8;;eb]gN2
+!i103 1
+S1
+R2
+R10
+R11
+R12
+L0 6
+R3
+31
+R4
+R13
+R14
+!i113 0
+R5
+R6
+vriscv_bp
+R0
+!s110 1616297659
+!i10b 1
+!s100 TYYnRF7n3iOzHk4>RefL:0
+I4X6aCVI]CXER<OTcz[X1Q3
+R9
+!s105 riscv_bp_sv_unit
+S1
+R2
+w1616297337
+8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv
+F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv
+L0 7
+R3
+r1
+!s85 0
+31
+Z15 !s108 1616297659.000000
+!s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv|
+!i113 0
+R5
+R6
+vriscv_bu
+R0
+R7
+R8
+DXx4 work 16 riscv_bu_sv_unit 0 22 kVP]^j99TUUZUXPnD>9U93
+R9
+r1
+!s85 0
+!i10b 1
+!s100 4gF_813G@36M_m0c5I]WK3
+IgfkEc47k3D<Al:Dd_kHcY3
+!s105 riscv_bu_sv_unit
+S1
+R2
+Z16 w1616297461
+Z17 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_bu.sv
+Z18 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_bu.sv
+Z19 L0 10
+R3
+31
+R4
+Z20 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_bu.sv|
+Z21 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_bu.sv|
+!i113 0
+R5
+R6
+Xriscv_bu_sv_unit
+R0
+R7
+R8
+VkVP]^j99TUUZUXPnD>9U93
+r1
+!s85 0
+!i10b 1
+!s100 ?;X;kao8DNE4P;7>`7@Sn2
+IkVP]^j99TUUZUXPnD>9U93
+!i103 1
+S1
+R2
+R16
+R17
+R18
+L0 7
+R3
+31
+R4
+R20
+R21
+!i113 0
+R5
+R6
+vriscv_core
+R0
+Z22 DXx4 work 12 riscv_du_pkg 0 22 fb:TK>N?QRhoLXcjaeoEI0
+R8
+Z23 DXx4 work 17 riscv_opcodes_pkg 0 22 UdXX<l[JAC5gefL`1[3iO2
+Z24 DXx4 work 17 biu_constants_pkg 0 22 cRk_]TIB6E8^NJnFgEc;C0
+DXx4 work 18 riscv_core_sv_unit 0 22 80zVjA8Y>D7VL6mC@@XZR3
+R9
+r1
+!s85 0
+!i10b 1
+!s100 OzB5`I?BCecLe<?Go8C?R1
+IAJzfAo;afX<RndJYOc@N@0
+!s105 riscv_core_sv_unit
+S1
+R2
+Z25 w1616297485
+Z26 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_core.sv
+Z27 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_core.sv
+Z28 L0 16
+R3
+31
+R15
+Z29 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_core.sv|
+Z30 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_core.sv|
+!i113 0
+R5
+R6
+Xriscv_core_sv_unit
+R0
+R22
+R8
+R23
+R24
+V80zVjA8Y>D7VL6mC@@XZR3
+r1
+!s85 0
+!i10b 1
+!s100 BLRmJC02@IWAilAF`EgOD3
+I80zVjA8Y>D7VL6mC@@XZR3
+!i103 1
+S1
+R2
+R25
+R26
+R27
+Z31 L0 11
+R3
+31
+R15
+R29
+R30
+!i113 0
+R5
+R6
+vriscv_div
+R0
+R7
+R8
+DXx4 work 17 riscv_div_sv_unit 0 22 CiiKdY[R411PG=WhJjmm>1
+R9
+r1
+!s85 0
+!i10b 1
+!s100 h5>k1V8T2g7;LU6gLX_?B0
+I^m4?^@jW3@PcHPUi;9lJc3
+!s105 riscv_div_sv_unit
+S1
+R2
+Z32 w1616297544
+Z33 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_div.sv
+Z34 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_div.sv
+Z35 L0 12
+R3
+31
+R4
+Z36 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_div.sv|
+Z37 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_div.sv|
+!i113 0
+R5
+R6
+Xriscv_div_sv_unit
+R0
+R7
+R8
+VCiiKdY[R411PG=WhJjmm>1
+r1
+!s85 0
+!i10b 1
+!s100 cDM7XDeRbDn_hzS8IcIKV3
+ICiiKdY[R411PG=WhJjmm>1
+!i103 1
+S1
+R2
+R32
+R33
+R34
+L0 9
+R3
+31
+R4
+R36
+R37
+!i113 0
+R5
+R6
+vriscv_du
+R0
+R23
+R8
+R22
+DXx4 work 16 riscv_du_sv_unit 0 22 L=H??m_iSjLe1<XYF@z5a2
+R9
+r1
+!s85 0
+!i10b 1
+!s100 Sf=PUAWhIH4ZOnPQ_o]E31
+Ij<dcU@>XdkGz[dmZG`7oV2
+!s105 riscv_du_sv_unit
+S1
+R2
+Z38 w1616297553
+Z39 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv
+Z40 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv
+R35
+R3
+31
+R15
+Z41 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv|
+Z42 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_du.sv|
+!i113 0
+R5
+R6
+Xriscv_du_pkg
+R0
+R1
+!i10b 1
+!s100 W<PWV6NI=mZT91Tmn@UkT0
+IbSSN6e7Q93hd?n]E2CJ^Y2
+VbSSN6e7Q93hd?n]E2CJ^Y2
+S1
+R2
+w1616297568
+8/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_du_pkg.sv
+F/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_du_pkg.sv
+R19
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_du_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_du_pkg.sv|
+!i113 0
+R5
+R6
+Xriscv_du_sv_unit
+R0
+R23
+R8
+R22
+VL=H??m_iSjLe1<XYF@z5a2
+r1
+!s85 0
+!i10b 1
+!s100 ImaFCiZ9SPBD=lG`D1_>01
+IL=H??m_iSjLe1<XYF@z5a2
+!i103 1
+S1
+R2
+R38
+R39
+R40
+L0 8
+R3
+31
+R15
+R41
+R42
+!i113 0
+R5
+R6
+vriscv_ex
+R0
+R23
+R8
+R24
+DXx4 work 16 riscv_ex_sv_unit 0 22 _5EAQBeCoWiCK5C8HC`G60
+R9
+r1
+!s85 0
+!i10b 1
+!s100 lX=?]n[Abj>DjK:P83eJ60
+I:hXc54B[]eBMSRYWVCQo22
+!s105 riscv_ex_sv_unit
+S1
+R2
+Z43 w1616297579
+Z44 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_ex.sv
+Z45 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_ex.sv
+R35
+R3
+31
+R15
+Z46 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_ex.sv|
+Z47 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_ex.sv|
+!i113 0
+R5
+R6
+Xriscv_ex_sv_unit
+R0
+R23
+R8
+R24
+V_5EAQBeCoWiCK5C8HC`G60
+r1
+!s85 0
+!i10b 1
+!s100 :BnJh:5[7l`hGj9^Ie5g=2
+I_5EAQBeCoWiCK5C8HC`G60
+!i103 1
+S1
+R2
+R43
+R44
+R45
+L0 8
+R3
+31
+R15
+R46
+R47
+!i113 0
+R5
+R6
+vriscv_icache_ahb3lite
+R0
+Z48 DXx4 work 17 biu_constants_pkg 0 22 WmWj[K9Hf?BNz0I>^7=lT1
+DXx4 work 29 riscv_icache_ahb3lite_sv_unit 0 22 Wik91]Xz9[LojFobD2gPb3
+R9
+r1
+!s85 0
+!i10b 1
+!s100 6@9zYWonPJ_ilzV>ez:lS1
+Ii[QV[nmN07A<;E7`]K2`93
+!s105 riscv_icache_ahb3lite_sv_unit
+S1
+R2
+Z49 w1616297590
+Z50 8/home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_icache_ahb3lite.sv
+Z51 F/home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_icache_ahb3lite.sv
+L0 9
+R3
+31
+R4
+Z52 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_icache_ahb3lite.sv|
+Z53 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_icache_ahb3lite.sv|
+!i113 0
+R5
+R6
+Xriscv_icache_ahb3lite_sv_unit
+R0
+R48
+VWik91]Xz9[LojFobD2gPb3
+r1
+!s85 0
+!i10b 1
+!s100 b4ZnCoAdCYzRm?=KYP`Do3
+IWik91]Xz9[LojFobD2gPb3
+!i103 1
+S1
+R2
+R49
+R50
+R51
+L0 7
+R3
+31
+R4
+R52
+R53
+!i113 0
+R5
+R6
+vriscv_id
+R0
+R23
+R8
+DXx4 work 16 riscv_id_sv_unit 0 22 <]:`=;DTjdUY?dEBV1Ak[2
+R9
+r1
+!s85 0
+!i10b 1
+!s100 Ad53?gi8B]o[OoD@>;SH01
+IOVKO2RHQz3`:dnC=Vg<ZP0
+!s105 riscv_id_sv_unit
+S1
+R2
+Z54 w1616297602
+Z55 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_id.sv
+Z56 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_id.sv
+R28
+R3
+31
+R15
+Z57 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_id.sv|
+Z58 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_id.sv|
+!i113 0
+R5
+R6
+Xriscv_id_sv_unit
+R0
+R23
+R8
+V<]:`=;DTjdUY?dEBV1Ak[2
+r1
+!s85 0
+!i10b 1
+!s100 kYXn9b5n?:K?RH`M?07R40
+I<]:`=;DTjdUY?dEBV1Ak[2
+!i103 1
+S1
+R2
+R54
+R55
+R56
+Z59 L0 13
+R3
+31
+R15
+R57
+R58
+!i113 0
+R5
+R6
+vriscv_if
+R0
+R23
+R8
+DXx4 work 16 riscv_if_sv_unit 0 22 ;a1B9YzeVB=P_0e1g5dA53
+R9
+r1
+!s85 0
+!i10b 1
+!s100 _e]3j73FkYEKN@h@z7Z]51
+I@eUL=M0FDoZhj0kZbYEbf3
+!s105 riscv_if_sv_unit
+S1
+R2
+Z60 w1616297610
+Z61 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_if.sv
+Z62 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_if.sv
+R19
+R3
+31
+R15
+Z63 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_if.sv|
+Z64 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_if.sv|
+!i113 0
+R5
+R6
+Xriscv_if_sv_unit
+R0
+R23
+R8
+V;a1B9YzeVB=P_0e1g5dA53
+r1
+!s85 0
+!i10b 1
+!s100 RQfTeD:30KWo>X9hk>=8h1
+I;a1B9YzeVB=P_0e1g5dA53
+!i103 1
+S1
+R2
+R60
+R61
+R62
+L0 7
+R3
+31
+R15
+R63
+R64
+!i113 0
+R5
+R6
+vriscv_lsu
+R0
+R7
+R8
+R48
+DXx4 work 17 riscv_lsu_sv_unit 0 22 eYGgC>:0d[2nD7=bB8UiW3
+R9
+r1
+!s85 0
+!i10b 1
+!s100 eoKKK4A?nGNB^j=YG>_5B3
+IM]JnOAF2Dg9fSMKj>43Ji0
+!s105 riscv_lsu_sv_unit
+S1
+R2
+Z65 w1616297619
+Z66 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv
+Z67 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv
+R35
+R3
+31
+R4
+Z68 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv|
+Z69 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_lsu.sv|
+!i113 0
+R5
+R6
+Xriscv_lsu_sv_unit
+R0
+R7
+R8
+R48
+VeYGgC>:0d[2nD7=bB8UiW3
+r1
+!s85 0
+!i10b 1
+!s100 f9c0=YkaboFBM^8<F9jXJ2
+IeYGgC>:0d[2nD7=bB8UiW3
+!i103 1
+S1
+R2
+R65
+R66
+R67
+L0 8
+R3
+31
+R4
+R68
+R69
+!i113 0
+R5
+R6
+vriscv_mem
+R0
+R23
+R8
+DXx4 work 17 riscv_mem_sv_unit 0 22 bM]gBAfQUVFcn<kffo2EU3
+R9
+r1
+!s85 0
+!i10b 1
+!s100 >>YZ<jh=bDSF==HV=kD4W0
+I_=j;0eUI4CbGUANH9IgDJ0
+!s105 riscv_mem_sv_unit
+S1
+R2
+Z70 w1616297629
+Z71 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_mem.sv
+Z72 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_mem.sv
+R31
+R3
+31
+R4
+Z73 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_mem.sv|
+Z74 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_mem.sv|
+!i113 0
+R5
+R6
+Xriscv_mem_sv_unit
+R0
+R23
+R8
+VbM]gBAfQUVFcn<kffo2EU3
+r1
+!s85 0
+!i10b 1
+!s100 V<bZ^ldU2oQ?[di2=UH^U1
+IbM]gBAfQUVFcn<kffo2EU3
+!i103 1
+S1
+R2
+R70
+R71
+R72
+L0 8
+R3
+31
+R4
+R73
+R74
+!i113 0
+R5
+R6
+vriscv_mul
+R0
+R7
+R8
+DXx4 work 17 riscv_mul_sv_unit 0 22 Hk5VQLSHXj<PY3ZG8c_DY0
+R9
+r1
+!s85 0
+!i10b 1
+!s100 7L6Yoj2i?0:GnAF?N08`g3
+IjdcdNhU=oa@zfNXAFnkYF3
+!s105 riscv_mul_sv_unit
+S1
+R2
+Z75 w1616297640
+Z76 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_mul.sv
+Z77 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_mul.sv
+R31
+R3
+31
+R4
+Z78 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_mul.sv|
+Z79 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_mul.sv|
+!i113 0
+R5
+R6
+Xriscv_mul_sv_unit
+R0
+R7
+R8
+VHk5VQLSHXj<PY3ZG8c_DY0
+r1
+!s85 0
+!i10b 1
+!s100 b`EUINC61`CC0IVNU=nU81
+IHk5VQLSHXj<PY3ZG8c_DY0
+!i103 1
+S1
+R2
+R75
+R76
+R77
+L0 8
+R3
+31
+R4
+R78
+R79
+!i113 0
+R5
+R6
+Xriscv_opcodes_pkg
+R0
+R1
+!i10b 1
+!s100 hV_T]kJP<WQPX^lFE@nWf3
+IQfR]`<0dRLSDimAY_[;9E0
+VQfR]`<0dRLSDimAY_[;9E0
+S1
+R2
+w1616297651
+8/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_opcodes_pkg.sv
+F/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_opcodes_pkg.sv
+R59
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_opcodes_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_opcodes_pkg.sv|
+!i113 0
+R5
+R6
+Xriscv_pma_pkg
+R0
+R8
+R1
+!i10b 1
+!s100 gC;`IiKkUALkYoMEz;XS=3
+I=V[<Xg@M1fn5fPMzdALaI1
+V=V[<Xg@M1fn5fPMzdALaI1
+S1
+R2
+w1616288541
+8/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_pma_pkg.sv
+F/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_pma_pkg.sv
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_pma_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_pma_pkg.sv|
+!i113 0
+R5
+R6
+vriscv_rf
+R0
+R1
+!i10b 1
+!s100 ==YMKY8]hbQhnCTT@5a480
+Ik@`W881b=4Xo42Z`0O3JY3
+R9
+!s105 riscv_rf_sv_unit
+S1
+R2
+w1616288030
+8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_rf.sv
+F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_rf.sv
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_rf.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_rf.sv|
+!i113 0
+R5
+R6
+Xriscv_rv12_pkg
+R0
+R1
+!i10b 1
+!s100 [<Vga:IN:gQ`Lgm@^F[>13
+I5N_Aa^gSi1T;35Hbbe;OT2
+V5N_Aa^gSi1T;35Hbbe;OT2
+S1
+R2
+w1616296689
+8/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_rv12_pkg.sv
+F/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_rv12_pkg.sv
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_rv12_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_rv12_pkg.sv|
+!i113 0
+R5
+R6
+vriscv_state1_10
+R0
+Z80 DXx4 work 14 riscv_rv12_pkg 0 22 @2XEJ4I^LaI5[XY6OlKz`2
+R23
+R8
+DXx4 work 23 riscv_state1_10_sv_unit 0 22 ?eD4;^L:Bom0HL7EMZHQF0
+R9
+r1
+!s85 0
+!i10b 1
+!s100 d?XkzfbVZlK:LASS3_<Vk0
+I;PW=6jAV253]blDKzA=722
+!s105 riscv_state1_10_sv_unit
+S1
+R2
+Z81 w1616288622
+Z82 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_state1.10.sv
+Z83 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_state1.10.sv
+R19
+R3
+31
+R4
+Z84 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_state1.10.sv|
+Z85 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_state1.10.sv|
+!i113 0
+R5
+R6
+Xriscv_state1_10_sv_unit
+R0
+R80
+R23
+R8
+V?eD4;^L:Bom0HL7EMZHQF0
+r1
+!s85 0
+!i10b 1
+!s100 W]XcZWZHG`beU@S7L`@073
+I?eD4;^L:Bom0HL7EMZHQF0
+!i103 1
+S1
+R2
+R81
+R82
+R83
+L0 6
+R3
+31
+R4
+R84
+R85
+!i113 0
+R5
+R6
+Xriscv_state_pkg
+R0
+R1
+!i10b 1
+!s100 3`HE?L^n0Q8h_]ml3`8LQ0
+I=B4C_zl5C4A8TK=M>Ui:n1
+V=B4C_zl5C4A8TK=M>Ui:n1
+S1
+R2
+Z86 w1616197402
+8/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.10_pkg.sv
+F/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.10_pkg.sv
+Z87 L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.10_pkg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.10_pkg.sv|
+!i113 0
+R5
+R6
+vriscv_top_ahb3lite
+R0
+R8
+Z88 DXx4 work 13 riscv_pma_pkg 0 22 =V[<Xg@M1fn5fPMzdALaI1
+Z89 DXx4 work 12 riscv_du_pkg 0 22 bSSN6e7Q93hd?n]E2CJ^Y2
+R48
+DXx4 work 26 riscv_top_ahb3lite_sv_unit 0 22 HQVYLZGYoBlhL><TUAVo:3
+R9
+r1
+!s85 0
+!i10b 1
+!s100 DVLNYJfJKL_NR9me15:Oa1
+I2:f_Gfl[aX>4ZfWfM=4Tz3
+!s105 riscv_top_ahb3lite_sv_unit
+S1
+R2
+Z90 w1616220754
+Z91 8/home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_top_ahb3lite.sv
+Z92 F/home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_top_ahb3lite.sv
+L0 37
+R3
+31
+R4
+!s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_top_ahb3lite.sv|
+Z93 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_top_ahb3lite.sv|
+!i113 0
+R5
+R6
+Xriscv_top_ahb3lite_sv_unit
+R0
+R8
+R88
+R89
+R48
+VHQVYLZGYoBlhL><TUAVo:3
+r1
+!s85 0
+!i10b 1
+!s100 FQ[VeDBWDe5dk:0V?a6LI0
+IHQVYLZGYoBlhL><TUAVo:3
+!i103 1
+S1
+R2
+R90
+R91
+R92
+L0 32
+R3
+31
+R4
+Z94 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_top_ahb3lite.sv|
+R93
+!i113 0
+R5
+R6
+vriscv_wb
+R0
+R23
+R8
+DXx4 work 16 riscv_wb_sv_unit 0 22 GWO1na@^jW8]:oWD7NPn60
+R9
+r1
+!s85 0
+!i10b 1
+!s100 INH4G1D0:NTj7L]F`VBVL0
+IlCWLzI:IKhk4?3LO4`=a^1
+!s105 riscv_wb_sv_unit
+S1
+R2
+R86
+Z95 8/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv
+Z96 F/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv
+L0 33
+R3
+31
+R4
+Z97 !s107 /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv|
+Z98 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv|
+!i113 0
+R5
+R6
+Xriscv_wb_sv_unit
+R0
+R23
+R8
+VGWO1na@^jW8]:oWD7NPn60
+r1
+!s85 0
+!i10b 1
+!s100 0j4>`EGEQzG]ib?CWjZG[2
+IGWO1na@^jW8]:oWD7NPn60
+!i103 1
+S1
+R2
+R86
+R95
+R96
+R87
+R3
+31
+R4
+R97
+R98
+!i113 0
+R5
+R6
