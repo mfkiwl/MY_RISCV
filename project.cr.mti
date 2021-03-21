@@ -69,37 +69,6 @@ QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
 Top level modules:
 	riscv_core
 
-} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.7_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.7_pkg.sv
-QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
--- Compiling package riscv_state_pkg
-
-Top level modules:
-	--none--
-
-} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv {2 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv
-QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
--- Compiling package riscv_wb_sv_unit
--- Importing package riscv_opcodes_pkg
--- Importing package riscv_state_pkg
--- Compiling module riscv_wb
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(186): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(187): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(188): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(189): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(190): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(191): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(192): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(193): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(204): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(205): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(206): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(207): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(208): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-** Warning: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_wb.sv(209): (vlog-2583) [SVCHK] - Extra checking for conflicts with always_comb and always_latch variables is done at vopt time.
-
-Top level modules:
-	riscv_wb
-
 } {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_bu.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_bu.sv
 QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
 -- Compiling package riscv_bu_sv_unit
@@ -109,13 +78,6 @@ QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
 
 Top level modules:
 	riscv_bu
-
-} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.9_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.9_pkg.sv
-QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
--- Compiling package riscv_state_pkg
-
-Top level modules:
-	--none--
 
 } {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_rv12_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_rv12_pkg.sv
 QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
@@ -155,22 +117,15 @@ QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
 Top level modules:
 	riscv_alu
 
-} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_div.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_div.sv
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_if.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_if.sv
 QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
--- Compiling package riscv_div_sv_unit
+-- Compiling package riscv_if_sv_unit
 -- Importing package riscv_opcodes_pkg
 -- Importing package riscv_state_pkg
--- Compiling module riscv_div
+-- Compiling module riscv_if
 
 Top level modules:
-	riscv_div
-
-} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_opcodes_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_opcodes_pkg.sv
-QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
--- Compiling package riscv_opcodes_pkg
-
-Top level modules:
-	--none--
+	riscv_if
 
 } {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_mem.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_mem.sv
 QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
@@ -182,27 +137,34 @@ QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
 Top level modules:
 	riscv_mem
 
-} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_if.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_if.sv
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_opcodes_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_opcodes_pkg.sv
 QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
--- Compiling package riscv_if_sv_unit
--- Importing package riscv_opcodes_pkg
--- Importing package riscv_state_pkg
--- Compiling module riscv_if
-
-Top level modules:
-	riscv_if
-
-} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/biu_constants_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/biu_constants_pkg.sv
-QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
--- Compiling package biu_constants_pkg
+-- Compiling package riscv_opcodes_pkg
 
 Top level modules:
 	--none--
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_div.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_div.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_div_sv_unit
+-- Importing package riscv_opcodes_pkg
+-- Importing package riscv_state_pkg
+-- Compiling module riscv_div
+
+Top level modules:
+	riscv_div
 
 } {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_pma_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_pma_pkg.sv
 QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
 -- Compiling package riscv_pma_pkg
 -- Importing package riscv_state_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/biu_constants_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/biu_constants_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package biu_constants_pkg
 
 Top level modules:
 	--none--
@@ -224,6 +186,13 @@ QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
 Top level modules:
 	riscv_du
 
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling module riscv_bp
+
+Top level modules:
+	riscv_bp
+
 } {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_mul.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/ex/riscv_mul.sv
 QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
 -- Compiling package riscv_mul_sv_unit
@@ -234,12 +203,19 @@ QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
 Top level modules:
 	riscv_mul
 
-} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.10_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_state1.10_pkg.sv
 QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
--- Compiling module riscv_bp
+-- Compiling package riscv_state_pkg
 
 Top level modules:
-	riscv_bp
+	--none--
+
+} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_du_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_du_pkg.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
+-- Compiling package riscv_du_pkg
+
+Top level modules:
+	--none--
 
 } {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_icache_ahb3lite.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/ahb3lite/riscv_icache_ahb3lite.sv
 QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
@@ -249,12 +225,5 @@ QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
 
 Top level modules:
 	riscv_icache_ahb3lite
-
-} {} {}} /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_du_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/luyao/Projects/MY_RISCV/rtl/verilog/pkg/riscv_du_pkg.sv
-QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 17 2018
--- Compiling package riscv_du_pkg
-
-Top level modules:
-	--none--
 
 } {} {}}

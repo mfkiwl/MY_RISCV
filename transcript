@@ -1,0 +1,80 @@
+# //  Questa Sim-64
+# //  Version 10.7c linux_x86_64 Aug 17 2018
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Project file /home/luyao/Projects/MY_RISCV/proj.mpf was not found.
+# Unable to open project.
+# Loading project project
+# Compile of riscv_bp.sv was successful.
+# Compile of riscv_core.sv was successful.
+# Compile of riscv_du.sv was successful with warnings.
+# Compile of riscv_ex.sv was successful.
+# Compile of riscv_id.sv was successful.
+# Compile of riscv_if.sv was successful.
+# Compile of riscv_mem.sv was successful.
+# Compile of riscv_rf.sv was successful.
+# Compile of riscv_state1.10.sv was successful.
+# Compile of riscv_wb.sv was successful with warnings.
+# Compile of biu_constants_pkg.sv was successful.
+# Compile of riscv_du_pkg.sv was successful.
+# Compile of riscv_opcodes_pkg.sv was successful.
+# Compile of riscv_pma_pkg.sv was successful.
+# Compile of riscv_rv12_pkg.sv was successful.
+# Compile of riscv_state1.7_pkg.sv was successful.
+# Compile of riscv_state1.9_pkg.sv was successful.
+# Compile of riscv_state1.10_pkg.sv was successful.
+# Compile of riscv_alu.sv was successful.
+# Compile of riscv_bu.sv was successful.
+# Compile of riscv_div.sv was successful.
+# Compile of riscv_lsu.sv was successful with warnings.
+# Compile of riscv_mul.sv was successful.
+# Compile of riscv_icache_ahb3lite.sv was successful.
+# Compile of riscv_top_ahb3lite.sv was successful with warnings.
+# 25 compiles, 0 failed with no errors.
+# Compile of riscv_bp.sv was successful.
+# Compile of riscv_core.sv was successful.
+# Compile of riscv_du.sv was successful with warnings.
+# Compile of riscv_ex.sv was successful.
+# Compile of riscv_id.sv was successful.
+# Compile of riscv_if.sv was successful.
+# Compile of riscv_mem.sv was successful.
+# Compile of riscv_rf.sv was successful.
+# Compile of riscv_state1.10.sv was successful.
+# Compile of riscv_wb.sv was successful with warnings.
+# Compile of biu_constants_pkg.sv was successful.
+# Compile of riscv_du_pkg.sv was successful.
+# Compile of riscv_opcodes_pkg.sv was successful.
+# Compile of riscv_pma_pkg.sv was successful.
+# Compile of riscv_rv12_pkg.sv was successful.
+# Compile of riscv_state1.7_pkg.sv was successful.
+# Compile of riscv_state1.9_pkg.sv was successful.
+# Compile of riscv_state1.10_pkg.sv was successful.
+# Compile of riscv_alu.sv was successful.
+# Compile of riscv_bu.sv was successful.
+# Compile of riscv_div.sv was successful.
+# Compile of riscv_lsu.sv was successful with warnings.
+# Compile of riscv_mul.sv was successful.
+# Compile of riscv_icache_ahb3lite.sv was successful.
+# Compile of riscv_top_ahb3lite.sv was successful with warnings.
+# 25 compiles, 0 failed with no errors.
+restart -f
+# No Design Loaded!
+vsim work.riscv_core
+# vsim work.riscv_core 
+# Start time: 20:53:08 on Mar 20,2021
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: /home/luyao/Projects/MY_RISCV/rtl/verilog/core/riscv_bp.sv(85): Module 'rl_ram_1r1w' is not defined.
+# Optimization failed
+# Error loading design
+# End time: 20:53:08 on Mar 20,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
